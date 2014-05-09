@@ -46,3 +46,8 @@ end
 
 #tz-info
 #http://stackoverflow.com/questions/23022258/tzinfodatasourcenotfound-error-starting-rails-v4-1-0-server-on-windows
+gem 'therubyracer'
+gem 'less-rails'
+
+gem 'bootstrap-sass'
+gem 'font-awesome-less'
